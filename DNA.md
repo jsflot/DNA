@@ -20,12 +20,13 @@ Strawberries have a high DNA content (octoploid DNA) which makes them ideal for 
 **Other**
 * 1 Strawberry
 * Coffee Filter
-* Cups (preferably glass0
-* Liquid measuring equipment
+* Cups (preferably glass)
+* Measuring spoons
 * A container with a volume >250 mL
 * Resealable plastic bag
 * Digital kitchen scale
 * Rubberband
+* Chopsticks
 
 # Warnings and Safety Data Sheets ![DNA](images/icon2.png)
 **WARNING:** 
@@ -40,33 +41,38 @@ Water: http://www.labchem.com/tools/msds/msds/LC26750.pdf
 Table Salt: https://www.neb.com/-/media/89d052d2de5f4cf78389caf4c9a1f03c.pdf
 
 # Steps ![DNA](images/icon.png)
-## 1. Homogenization of Strawberry Tissue
+## 1. Read Following Steps and and Prepare Materials
+## 2. Homogenization of Strawberry Tissue
 * Slice the off the stem of the strawberry and place it into the plastic bag and seal.
-* With you hands mash the strawberry into a uniform pulp.
+* With your hands mash the strawberry into a uniform pulp.
 
-## 2. Making Extraction Solution
+## 3. Making Extraction Solution
 * In the 250 mL or greater container add the following
 -12.5 mL of dishsoap (~3/4 tablespoons)
 -15 g of salt (~1/2 tablespoons)
 -Water to 250 mL (~1 cups)
-* Mix until salt has dissolved
+* Mix until salt has dissolved.
 
-## 3. Breakdown Cell Components with Extraction Solution
+## 4. Breakdown Cell Components with Extraction Solution
 * To the plastic bag containing the mashed strawberry add 10 mL (~3/4 tablespoon) of extraction buffer.
 * Continue homogenizing for 2 to 3 more minutes.
 
-## 4. Collecting DNA Solution
+## 5. Collecting DNA Solution
 * Place the coffee filter over the mouth of a cup and secure with a rubber band (see image below).
 ![DNA](https://3.bp.blogspot.com/_YuD30KrwFvA/R_jvZFAgk6I/AAAAAAAAAmM/-_CA9xImaoo/s400/Rubber+band+filter.JPG)
 * Pour strawberry mash into the filter and allow the liquid to strain through the filter. This liquid contains the DNA.
 * Dispose of the filter and strawberry mash.
 
-## 4. Precipitating the DNA with Alcohol
+## 6. Precipitating the DNA with Alcohol
 * Slowly add 20 mL (~1.5 tablespoons) of ice-cold isopropyl alcohol to the DNA solution.
 * Continue homogenizing for 2 to 3 more minutes.
 * Allow to sit for a minute, a white precipitate should form at the interface of the two liquids. This is the DNA.
 
-## 4. Collect the DNA
+## 7. Collect the DNA
+* Spin a chopstick around in the DNA tangle to wrap it around the chopstick.
+
+## 8. Observe
+* Spread the DNA out on a sheet of plastic wrap for optimal viewing.
 
 
 

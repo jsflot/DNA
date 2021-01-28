@@ -1,4 +1,4 @@
-# **Homemade DNA Daiquiri**
+# **Homebrew DNA Extraction**
 
 ![DNA](images/strawberry.png)
 

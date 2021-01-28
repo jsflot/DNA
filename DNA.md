@@ -4,7 +4,7 @@
 
 
 # Introduction ![DNA](images/icon.png)
-DNA, or deoxyribonucleic acid carries genetic instruction in all organisms. This molecule can be extracted from the cells of organisms (Strawberry, for example) with a few household chemicals.
+DNA, or deoxyribonucleic acid carries genetic instruction in all organisms. This molecule can be extracted from the cells of organisms (a strawberry, for example) with a few household chemicals.
 
 # Theory ![DNA](images/icon2.png)
 DNA is complexed with proteins and protected from the outside by the lipid membrane of the cell (and/or nucleus). To break down these barriers we can make use of common household compounds and basic chemistry.

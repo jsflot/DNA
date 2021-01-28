@@ -1,6 +1,6 @@
 # **At Home DNA Extraction**
 
-![DNA](images/strawberry.png)
+![DNA](images/strawberry2.png)
 
 
 # Introduction ![DNA](images/icon.png)

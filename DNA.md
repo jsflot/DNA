@@ -1,4 +1,4 @@
-# **Homebrew DNA Extraction**
+# **At Home DNA Extraction**
 
 ![DNA](images/strawberry.png)
 

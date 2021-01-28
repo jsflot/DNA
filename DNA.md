@@ -4,15 +4,17 @@
 
 
 # Introduction
-DNA, or deoxyribonucleic acid 
-# Theory  
-# Warnings 
-**GOVERNMENT WARNING:** 
-(1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. 
-(2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems
+DNA, or deoxyribonucleic acid carries genetic instruction in all organisms. This molecule can be extracted from the cells of organisms with a few household chemicals.
+# Theory
 
-**LEGAL WARNING:**
-(1) US federal law prohibits those younger than 21 from consuming alcohol.
 
+# Warnings and Safety Data Sheets 
+**WARNING:** 
+The chemicals used in this protocol can be hazardous if handled improperly. Please follow the guidelines for handling and personal protective equipment dictated in the material safety data sheets.
+
+Dishsoap: http://sds.chemtel.net/webclients/cheneybrothers/540011SDS.pdf
+Isopropyl Alcohol: http://websites.retailcatalog.us/1424/mm/isopropyl-alcohol.pdf
+Water: http://www.labchem.com/tools/msds/msds/LC26750.pdf
+Table Salt: https://www.neb.com/-/media/89d052d2de5f4cf78389caf4c9a1f03c.pdf
 
 # Steps  

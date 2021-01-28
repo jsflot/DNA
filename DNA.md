@@ -3,14 +3,14 @@
 ![DNA](images/strawberry.png)
 
 
-# Introduction
+# Introduction ![DNA](images/icon.png)
 DNA, or deoxyribonucleic acid carries genetic instruction in all organisms. This molecule can be extracted from the cells of organisms (Strawberry, for example) with a few household chemicals.
 
-# Theory
+# Theory ![DNA](images/icon.png)
 DNA is complexed with proteins and protected from the outside by the lipid membrane of the cell (and/or nucleus). To break down these barriers we can make use of common household compounds and basic chemistry.
 Strawberries have a high DNA content (octoploid DNA) which makes them ideal for this application. The
 
-# Materials
+# Materials ![DNA](images/icon.png)
 **Chemicals**
 * Isopropyl Alcohol (chilled) 
 * Dishsoap
@@ -23,7 +23,7 @@ Strawberries have a high DNA content (octoploid DNA) which makes them ideal for 
 * Several cups, preferably glass
 * Plastic bag
 
-# Warnings and Safety Data Sheets 
+# Warnings and Safety Data Sheets ![DNA](images/icon.png)
 **WARNING:** 
 The chemicals used in this protocol can be hazardous if handled improperly. Please follow the guidelines for handling and personal protective equipment dictated in the material safety data sheets.
 

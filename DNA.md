@@ -1,9 +1,10 @@
 # **Homemade DNA Daiquiri**
 
-![DNA](images/Daq.png)
+![DNA](images/strawberry.png)
 
 
-# Introduction  
+# Introduction
+DNA, or deoxyribonucleic acid 
 # Theory  
 # Warnings 
 **GOVERNMENT WARNING:** 
@@ -11,7 +12,7 @@
 (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems
 
 **LEGAL WARNING:**
-(1) US federal law prohibits those younger than 21 from consumign alcohol.
+(1) US federal law prohibits those younger than 21 from consuming alcohol.
 
 
 # Steps  

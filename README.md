@@ -47,7 +47,7 @@ Table Salt: https://www.neb.com/-/media/89d052d2de5f4cf78389caf4c9a1f03c.pdf
 * With your hands mash the strawberry into a uniform pulp.
 
 ## 3. Making the Extraction Solution.
-* In the 250 mL or greater container add the following
+* In the 250 mL or greater container add the following:
 -12.5 mL of dish soap (~3/4 tablespoons)
 -15 g of salt (~1/2 tablespoons)
 -Water to 250 mL (~1 cups)

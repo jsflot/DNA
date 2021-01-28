@@ -8,7 +8,7 @@ DNA, or deoxyribonucleic acid carries genetic instruction in all organisms. This
 
 # Theory ![DNA](images/icon2.png)
 DNA is complexed with proteins and protected from the outside by the lipid membrane of the cell (and/or nucleus). To break down these barriers we can make use of common household compounds and basic chemistry.
-Strawberries have a high DNA content (octoploid DNA) which makes them ideal for this application. The
+Strawberries have a high DNA content (octoploid DNA) which makes them ideal for this application. Cells are first liberated from the strawberry tissue by mashing (homogenization). A detergent (dishsoap) then breaks down the cell membrane, releasing the DNA. A solution of salt allows the negatively charged DNA to solubilize. Removing the cell debris isolates the DNA solution. Alcohol added to this solution allows the DNA to precipitate out. 
 
 # Materials ![DNA](images/icon.png)
 **Chemicals**

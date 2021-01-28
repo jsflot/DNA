@@ -41,7 +41,7 @@ Water: http://www.labchem.com/tools/msds/msds/LC26750.pdf
 Table Salt: https://www.neb.com/-/media/89d052d2de5f4cf78389caf4c9a1f03c.pdf
 
 # Steps ![DNA](images/icon.png)
-## 1.  Read the Following Steps and Prepare Materials
+## 1.  Read the Following Steps and Prepare Materials.
 ## 2. Homogenization of the Strawberry Tissue.
 * Slice the off the stem of the strawberry and place it into the plastic bag and seal.
 * With your hands mash the strawberry into a uniform pulp.
